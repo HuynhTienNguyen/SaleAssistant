@@ -34,7 +34,7 @@ A key objective of this project is demonstrating how **Prompt Engineering**, **C
 
 <div align="center">
 
-<img src="./imgs/Achitecture.png" alt="Sale Assistant Architecture" width="100%"/>
+<img src="./imgs/chatbot_structure.png" alt="Sale Assistant Architecture" width="100%"/>
 
 </div>
 
