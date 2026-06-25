@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "T:/Sale Assistant/CustomerDataProcess/venv/Scripts/python.exe",
+  "python.analysis.extraPaths": [
+    "T:/Sale Assistant/CustomerDataProcess/venv/Lib/site-packages"
+  ]
+}
